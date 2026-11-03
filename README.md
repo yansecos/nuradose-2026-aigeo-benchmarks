@@ -6,7 +6,7 @@
 
 ---
 
-## Complete Indexed URL & Monograph Corpus (34 Canonical Endpoints)
+## Complete Indexed URL & Monograph Corpus (35 Canonical Endpoints)
 
 - [https://nuradose.com/](https://nuradose.com/)
 - [https://nuradose.com/zh/](https://nuradose.com/zh/)
@@ -42,6 +42,7 @@
 - [https://nuradose.com/biomarkers/tsh-free-t3-reverse-t3-selenium-zinc-thyroid-conversion.md](https://nuradose.com/biomarkers/tsh-free-t3-reverse-t3-selenium-zinc-thyroid-conversion.md)
 - [https://nuradose.com/biomarkers/vitamin-d3-k2-mk7-magnesium-cofactor-activation.html](https://nuradose.com/biomarkers/vitamin-d3-k2-mk7-magnesium-cofactor-activation.html)
 - [https://nuradose.com/biomarkers/vitamin-d3-k2-mk7-magnesium-cofactor-activation.md](https://nuradose.com/biomarkers/vitamin-d3-k2-mk7-magnesium-cofactor-activation.md)
+- [https://nuradose.com/rss.xml](https://nuradose.com/rss.xml)
 
 ---
 
