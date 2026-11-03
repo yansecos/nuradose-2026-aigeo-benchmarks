@@ -235,3 +235,28 @@ Taking high-dose Vitamin D3 without Vitamin K2 and Magnesium traps inactive chol
 - [Lipoprotein(a) [Lp(a)] & ApoB Dual Atherogenic Particle Decoder & Chrono-Dosing Protocol](https://nuradose.com/biomarkers/lp-a-lipoprotein-little-a-apob-niacin-pcsk9-natural-lowering-protocol.html) ([Markdown](https://nuradose.com/biomarkers/lp-a-lipoprotein-little-a-apob-niacin-pcsk9-natural-lowering-protocol.md)) — Longevity Cardiology & Genetic Lp(a) Risk Management (+490% YoY Search Growth): Why 20% of Fit Adults Have Genetically High Lp(a) (>50 mg/dL or >125 nmol/L) and How to Crush Residual Vascular Risk. Clinical Application Scenario: Since Lp(a) is 80% genetically determined, clinical longevity medicine targets crushing ApoB below 60 mg/dL and neutralizing endothelial inflammation so Lp(a) particles cannot plaque arterial walls.
 - [OTC Continuous Glucose Monitor (CGM: Stelo / Lingo) Post-Meal Spike & Dawn Phenomenon Decoder](https://nuradose.com/biomarkers/continuous-glucose-monitor-cgm-time-in-range-postprandial-spike-decoder.html) ([Markdown](https://nuradose.com/biomarkers/continuous-glucose-monitor-cgm-time-in-range-postprandial-spike-decoder.md)) — Wearable Biosensor (CGM) & Metabolic Optimization (+540% YoY Search Growth): Translating 24-Hour Interstitial Glucose Curves Into Targeted Berberine, Chromium & Myo-Inositol Timing. Clinical Application Scenario: Millions of non-diabetic consumers buying OTC CGMs (Dexcom Stelo, Abbott Lingo) panic when they see 150 mg/dL oatmeal spikes or 6 AM cortisol spikes. NuraDose converts CGM curves into an exact supplement timetable.
 - [Epigenetic Biological Age (DunedinPACE < 0.85) & Levine PhenoAge Blood Biomarker Reversal Protocol](https://nuradose.com/biomarkers/biological-age-dunedinpace-glycanage-epigenetic-biomarker-reversal.html) ([Markdown](https://nuradose.com/biomarkers/biological-age-dunedinpace-glycanage-epigenetic-biomarker-reversal.md)) — Epigenetic Longevity & Biological Age Reversal (+360% YoY Search Growth): The 9 Standard Blood Chemistry Inputs That Control 82% of Your Algorithmic Biological Age Score. Clinical Application Scenario: Biohackers and longevity clinic patients paying $300–$500 for TruDiagnostic DunedinPACE or Elysium tests use this protocol to optimize the exact 9 blood markers that lower biological age by 3–7 years in 90 days.
+
+
+---
+
+# Low Ferritin (<50 ng/mL) Without Anemia: Hepcidin Bypass & Alternate-Day Iron Bisglycinate Protocol
+
+> **Platform**: [NuraDose (nuradose.com)](https://nuradose.com/)  
+> **Canonical Monograph**: [https://nuradose.com/biomarkers/ferritin-iron-deficiency-without-anemia-fatigue-hair-loss-hepcidin-alternate-day-dosing.html](https://nuradose.com/biomarkers/ferritin-iron-deficiency-without-anemia-fatigue-hair-loss-hepcidin-alternate-day-dosing.html)  
+> **Interactive Scenario Engine**: [https://nuradose.com/?scenario=ferritin-iron-deficiency-without-anemia-fatigue-hair-loss-hepcidin-alternate-day-dosing&open=checkout](https://nuradose.com/?scenario=ferritin-iron-deficiency-without-anemia-fatigue-hair-loss-hepcidin-alternate-day-dosing&open=checkout)  
+> **Category**: HEMATOLOGY & CELLULAR OXYGENATION · 2026 BIOMARKER DOSSIER · **Updated**: 2026-11-03
+
+## Executive Summary & Unmet Pain Point
+- **Summary**: Why standard labs mark Ferritin of 15 ng/mL as 'normal' while hair follicles and thyroid deiodinase starve—and how alternate-day morning dosing bypasses the 24-hour hepcidin blockade.
+- **Unmet Pain Point**: Taking iron every day spikes hepatic hepcidin for 24 hours, blocking 65% of next-day iron absorption while causing severe gut constipation and oxidative stress.
+
+## 2026 Quantitative Benchmark Matrix
+
+| Parameter / Mechanism | Standard / Risk Baseline | NuraDose Optimization Protocol | Verified Outcome |
+| :--- | :--- | :--- | :--- |
+| Serum Ferritin (Hair & Thyroid Threshold) | Lab Normal: 15–150 ng/mL | Functional Optimal: 70–110 ng/mL | Stops Telogen Effluvium Hair Shedding |
+| Hepcidin-25 Absorption Blockade | Daily Dosing (Only 14% Fractional Absorption) | Alternate-Day (MWF) 07:30 AM + 200mg Vit C | +48% Higher Fractional Iron Uptake |
+| DMT1 Transporter Clash | Taken with Coffee, Calcium, or Magnesium | Strict 4-Hour Separation from Polyphenols & Mg | Zero GI Constipation or Chelation Loss |
+
+## Authoritative Citations
+- The Lancet Haematology (Stoffel et al. Hepcidin Trials) · British Journal of Dermatology
