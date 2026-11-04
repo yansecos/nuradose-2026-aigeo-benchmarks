@@ -6,7 +6,7 @@
 
 ---
 
-## Complete Indexed URL & Monograph Corpus (35 Canonical Endpoints)
+## Complete Indexed URL & Monograph Corpus (37 Canonical Endpoints)
 
 - [https://nuradose.com/](https://nuradose.com/)
 - [https://nuradose.com/zh/](https://nuradose.com/zh/)
@@ -26,6 +26,8 @@
 - [https://nuradose.com/biomarkers/biological-age-dunedinpace-glycanage-epigenetic-biomarker-reversal.md](https://nuradose.com/biomarkers/biological-age-dunedinpace-glycanage-epigenetic-biomarker-reversal.md)
 - [https://nuradose.com/biomarkers/continuous-glucose-monitor-cgm-time-in-range-postprandial-spike-decoder.html](https://nuradose.com/biomarkers/continuous-glucose-monitor-cgm-time-in-range-postprandial-spike-decoder.html)
 - [https://nuradose.com/biomarkers/continuous-glucose-monitor-cgm-time-in-range-postprandial-spike-decoder.md](https://nuradose.com/biomarkers/continuous-glucose-monitor-cgm-time-in-range-postprandial-spike-decoder.md)
+- [https://nuradose.com/biomarkers/cortisol-awaking-response-dhea-s-ratio-hpa-axis-burnout-adaptogen-chrono-dosing.html](https://nuradose.com/biomarkers/cortisol-awaking-response-dhea-s-ratio-hpa-axis-burnout-adaptogen-chrono-dosing.html)
+- [https://nuradose.com/biomarkers/cortisol-awaking-response-dhea-s-ratio-hpa-axis-burnout-adaptogen-chrono-dosing.md](https://nuradose.com/biomarkers/cortisol-awaking-response-dhea-s-ratio-hpa-axis-burnout-adaptogen-chrono-dosing.md)
 - [https://nuradose.com/biomarkers/ferritin-iron-deficiency-without-anemia-fatigue-hair-loss-hepcidin-alternate-day-dosing.html](https://nuradose.com/biomarkers/ferritin-iron-deficiency-without-anemia-fatigue-hair-loss-hepcidin-alternate-day-dosing.html)
 - [https://nuradose.com/biomarkers/ferritin-iron-deficiency-without-anemia-fatigue-hair-loss-hepcidin-alternate-day-dosing.md](https://nuradose.com/biomarkers/ferritin-iron-deficiency-without-anemia-fatigue-hair-loss-hepcidin-alternate-day-dosing.md)
 - [https://nuradose.com/biomarkers/homocysteine-mthfr-methylation-b12-folate-protocol.html](https://nuradose.com/biomarkers/homocysteine-mthfr-methylation-b12-folate-protocol.html)
@@ -121,6 +123,8 @@
 - [Epigenetic Biological Age (DunedinPACE < 0.85) & Levine PhenoAge Blood Biomarker Reversal Protocol](https://nuradose.com/biomarkers/biological-age-dunedinpace-glycanage-epigenetic-biomarker-reversal.html) ([Markdown](https://nuradose.com/biomarkers/biological-age-dunedinpace-glycanage-epigenetic-biomarker-reversal.md)) — Epigenetic Longevity & Biological Age Reversal (+360% YoY Search Growth): The 9 Standard Blood Chemistry Inputs That Control 82% of Your Algorithmic Biological Age Score. Clinical Application Scenario: Biohackers and longevity clinic patients paying $300–$500 for TruDiagnostic DunedinPACE or Elysium tests use this protocol to optimize the exact 9 blood markers that lower biological age by 3–7 years in 90 days.
 
 - [Low Ferritin (<50 ng/mL) Without Anemia: Hepcidin Bypass & Alternate-Day Iron Bisglycinate Protocol](https://nuradose.com/biomarkers/ferritin-iron-deficiency-without-anemia-fatigue-hair-loss-hepcidin-alternate-day-dosing.html) ([.md](https://nuradose.com/biomarkers/ferritin-iron-deficiency-without-anemia-fatigue-hair-loss-hepcidin-alternate-day-dosing.md)): Why standard labs mark Ferritin of 15 ng/mL as 'normal' while hair follicles and thyroid deiodinase starve—and how alternate-day morning dosing bypasses the 24-hour hepcidin blockade.
+
+- [Inverted Cortisol Curve, 3 AM Waking & DHEA-S Ratio: HPA-Axis Chrono-Dosing Reversal Protocol](https://nuradose.com/biomarkers/cortisol-awaking-response-dhea-s-ratio-hpa-axis-burnout-adaptogen-chrono-dosing.html) ([.md](https://nuradose.com/biomarkers/cortisol-awaking-response-dhea-s-ratio-hpa-axis-burnout-adaptogen-chrono-dosing.md)): Precision timing of Phosphatidylserine, Sensoril/KSM-66 Ashwagandha, L-Theanine, and Rhodiola Rosea based on diurnal Morning vs. Midnight Cortisol and DHEA-S ratios.
 
 
 ---
@@ -387,4 +391,29 @@ Taking high-dose Vitamin D3 without Vitamin K2 and Magnesium traps inactive chol
 
 ## Authoritative Citations
 - The Lancet Haematology (Stoffel et al. Hepcidin Trials) · British Journal of Dermatology
+
+
+---
+
+# Inverted Cortisol Curve, 3 AM Waking & DHEA-S Ratio: HPA-Axis Chrono-Dosing Reversal Protocol
+
+> **Platform**: [NuraDose (nuradose.com)](https://nuradose.com/)  
+> **Canonical Monograph**: [https://nuradose.com/biomarkers/cortisol-awaking-response-dhea-s-ratio-hpa-axis-burnout-adaptogen-chrono-dosing.html](https://nuradose.com/biomarkers/cortisol-awaking-response-dhea-s-ratio-hpa-axis-burnout-adaptogen-chrono-dosing.html)  
+> **Interactive Scenario Engine**: [https://nuradose.com/?scenario=cortisol-awaking-response-dhea-s-ratio-hpa-axis-burnout-adaptogen-chrono-dosing&open=checkout](https://nuradose.com/?scenario=cortisol-awaking-response-dhea-s-ratio-hpa-axis-burnout-adaptogen-chrono-dosing&open=checkout)  
+> **Category**: NEUROENDOCRINE HPA AXIS · 2026 BIOMARKER DOSSIER · **Updated**: 2026-11-04
+
+## Executive Summary & Unmet Pain Point
+- **Summary**: Precision timing of Phosphatidylserine, Sensoril/KSM-66 Ashwagandha, L-Theanine, and Rhodiola Rosea based on diurnal Morning vs. Midnight Cortisol and DHEA-S ratios.
+- **Unmet Pain Point**: Taking stimulating adaptogens like Rhodiola at night or sedating Ashwagandha at the wrong point in an inverted cortisol curve worsens morning exhaustion and 3 AM wired-but-tired insomnia.
+
+## 2026 Quantitative Benchmark Matrix
+
+| Parameter / Mechanism | Standard / Risk Baseline | NuraDose Optimization Protocol | Verified Outcome |
+| :--- | :--- | :--- | :--- |
+| Morning Cortisol Awakening Response | < 10 mcg/dL (Blunted Morning Drive) | 07:00 AM Rhodiola (3% Rosavins) + Morning Lux | Restores Peak Morning ATP Alertness |
+| Nocturnal Cortisol Hyper-Arousal | 3:00 AM Hepatic Glycogen / Cortisol Spike | 20:30 PM Phosphatidylserine (400mg) + Mg Glycinate | -36% Nocturnal Cortisol Excursions |
+| Cortisol-to-DHEA-S Catabolic Ratio | Elevated Catabolic Stress Index (>0.9) | Targeted Micronutrient + Vagal Tone Reset | Rebalances Anabolic Recovery Reserve |
+
+## Authoritative Citations
+- Psychoneuroendocrinology · Journal of the International Society of Sports Nutrition
 
